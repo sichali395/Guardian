@@ -20,4 +20,4 @@ The Guardian Safety App is a Command Line Interface (CLI) software written in Ko
 *   Add real GPS and sensor integration using Android device APIs.
 
 ## Video Demonstration
-*   [Watch my Guardian App demonstration here]({Paste your 4-5 minute video link here})
+*   [Watch my Guardian App demonstration here](https://youtu.be/18B8qWKbkRA?si=J5Mwvchr-8I1cwAH)
